@@ -1,0 +1,7 @@
+.pop {
+  transition: transform 0.2s;
+  }
+  
+  .pop:hover {
+  transform: scale(1.05);
+  }
